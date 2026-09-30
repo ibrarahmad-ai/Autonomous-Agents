@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/raw/
+data/normalized/
+data/resolved/
+data/approved/
+*.local.json
