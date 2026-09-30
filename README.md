@@ -1,4 +1,4 @@
-# SOL Autonomy Agent Assurance Repository
+#Autonomy Agent Assurance Repository
 
 This directory defines a manufacturer-neutral, model-neutral agent system for
 autonomous-driving analysis. It is an assurance and decision-support system. It
@@ -78,7 +78,7 @@ Schema and consumed without a YAML dependency. JSON is also valid YAML 1.2.
 
 ## Validate
 
-From the SOL repository root:
+From the repository root:
 
 ```powershell
 python agents/tools/validate_repository.py
